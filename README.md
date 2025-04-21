@@ -40,9 +40,11 @@ Proyek ini merupakan implementasi model klasifikasi gambar menggunakan TensorFlo
 4. Pastikan semua dependensi telah terinstal di environment Colab (Colab biasanya sudah siap pakai, tapi jika perlu install manual: `!pip install tensorflow tensorflowjs`).
 
 👩‍💻 Clone repositori ini:
+
     git clone <https://github.com/Salsabilamm2/Proyek-Klasifikasi-Gambar>
 
 👩‍💻 Akses file lengkap:
+
    GoogleDrive <https://drive.google.com/drive/folders/1MtoT2jTWR8suu2z8XiKKtzwroAN8mJbP?usp=drive_link>
 
 ---
@@ -103,4 +105,5 @@ Output: Gambar dengan label prediksi ditampilkan menggunakan matplotlib.
 ## 📜 Lisensi
 ---
 Proyek ini dilisensikan di bawah [jenis lisensi, misalnya MIT License]. Lihat file `LICENSE` untuk informasi lebih lanjut.
+
 ---
