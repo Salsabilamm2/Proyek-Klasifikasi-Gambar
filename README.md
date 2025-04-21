@@ -38,8 +38,12 @@ Proyek ini merupakan implementasi model klasifikasi gambar menggunakan TensorFlo
     - **Konversi ke SavedModel, TFLite, dan TF.js**
     - **Inference menggunakan SavedModel & TFLite**
 4. Pastikan semua dependensi telah terinstal di environment Colab (Colab biasanya sudah siap pakai, tapi jika perlu install manual: `!pip install tensorflow tensorflowjs`).
+
 👩‍💻 Clone repositori ini:
     git clone <https://github.com/Salsabilamm2/Proyek-Klasifikasi-Gambar>   
+
+👩‍💻 Akses File Lengkap
+https://drive.google.com/drive/folders/1MtoT2jTWR8suu2z8XiKKtzwroAN8mJbP?usp=sharing
 ---
 
 ## 📦 Dataset
