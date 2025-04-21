@@ -42,8 +42,8 @@ Proyek ini merupakan implementasi model klasifikasi gambar menggunakan TensorFlo
 👩‍💻 Clone repositori ini:
     git clone <https://github.com/Salsabilamm2/Proyek-Klasifikasi-Gambar>   
 
-👩‍💻 Akses File Lengkap
-https://drive.google.com/drive/folders/1MtoT2jTWR8suu2z8XiKKtzwroAN8mJbP?usp=sharing
+👩‍💻 Akses file:
+    gdrive <https://drive.google.com/drive/folders/1MtoT2jTWR8suu2z8XiKKtzwroAN8mJbP?usp=sharing> 
 ---
 
 ## 📦 Dataset
