@@ -61,9 +61,9 @@ Proyek ini merupakan implementasi model klasifikasi gambar menggunakan TensorFlo
 ## 🧠 Model
 ---
 1. Arsitektur Model : Convolutional Neural Network (CNN) dengan Conv2D, MaxPooling2D, Dropout, dan Dense
-2.  Optimasi: Adam, Fungsi Loss : categorical_crossentropy, dan metrik : accuracy
+2. Optimasi: Adam, Fungsi Loss : categorical_crossentropy, dan metrik : accuracy
 3. Callback: EarlyStopping, ModelCheckpoint : save best model (.keras)
-- Augmentasi: ImageDataGenerator dengan rotasi, zoom, flip, shift
+4. Augmentasi: ImageDataGenerator dengan rotasi, zoom, flip, shift
 ---
 
 ## 📊 Hasil evaluasi model dan Visualisasi
